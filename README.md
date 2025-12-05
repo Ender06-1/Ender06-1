@@ -2,4 +2,4 @@
 
 [Home page](https://github.com/EnderNight/EnderNight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderNight&layout=donut-vertical&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ender06-1&layout=donut-vertical&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
