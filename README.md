@@ -1,5 +1,11 @@
-Ça y est, c'est mardi, c'est bientôt le week-end !
+<h1 align="center">Mathéba</h1>
 
-[Home page](https://github.com/EnderNight/EnderNight)
+<p align="center">
+    <em><strong>Ça y est, c'est mardi, c'est bientôt le week-end !</strong></em>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ender06-1&layout=donut-vertical&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    22 yo, 5th year computer science engineer student at [@epita](https://github.com/epita)
+</p>
+
+<hr/>
