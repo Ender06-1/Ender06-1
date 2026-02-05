@@ -7,8 +7,6 @@
     22 yo, 5th year computer science engineer student at <a href="https://github.com/epita">&commat;epita</a>
 </p>
 
-<hr/>
-
 <h2 align="center">Languages</h2>
 
 <p align="center">
