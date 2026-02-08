@@ -11,5 +11,4 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Nix-7E7EFF?style=for-the-badge&logo=nixos&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
